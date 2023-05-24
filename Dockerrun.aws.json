@@ -1,0 +1,16 @@
+{
+   "AWSEBDockerrunVersion": "1",
+   "Authentication": {
+      "Bucket": "lks-ardhan-dikri-achmad-fahrudin-smkn-1-gedangan	", 
+      "Key": "config.json"
+   },
+   "Image": {
+      "Name": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image"
+   },
+   "Ports": [
+      {
+         "ContainerPort": 8000,
+         "HostPort": 80
+      }
+   ]
+}
