@@ -1,7 +1,7 @@
 {
    "AWSEBDockerrunVersion": "1",
    "Authentication": {
-      "Bucket": "lks-ardhan-dikri-achmad-fahrudin-smkn-1-gedangan	", 
+      "Bucket": "#", 
       "Key": "config.json"
    },
    "Image": {
