@@ -2,7 +2,7 @@
    "AWSEBDockerrunVersion": "1",
    "Authentication": {
       "Bucket": "tes123412", 
-      "Key": "config.json"
+      "Key": "./config.json"
    },
    "Image": {
       "Name": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image"
