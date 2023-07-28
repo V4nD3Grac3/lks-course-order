@@ -1,7 +1,7 @@
 {
    "AWSEBDockerrunVersion": "1",
    "Authentication": {
-      "Bucket": "test", 
+      "Bucket": "tes123412", 
       "Key": "config.json"
    },
    "Image": {
