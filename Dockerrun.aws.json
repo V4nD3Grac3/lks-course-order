@@ -1,5 +1,5 @@
 {
-   "AWSEBDockerrunVersion": "1",
+   "AWSEBDockerrunVersion": "3",
    "Authentication": {
       "Bucket": "tes123412", 
       "Key": "config.json"
