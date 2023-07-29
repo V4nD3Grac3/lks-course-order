@@ -5,7 +5,8 @@
       "Key": "dkcfg"
    },
    "Image": {
-      "Name": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image"
+      "Name": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image",
+      "Update": "true"
    },
    "Ports": [
       {
