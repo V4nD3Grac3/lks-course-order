@@ -6,7 +6,6 @@
        "image": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image:latest"
      }
    ]
-}
    "Ports": [
       {
          "ContainerPort": 8000,
