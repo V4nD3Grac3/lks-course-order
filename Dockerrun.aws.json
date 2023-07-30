@@ -3,7 +3,7 @@
   "containerDefinitions": [
      {
        "name": "lks-order-image",
-       "image": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image:latest"
+       "image": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image:latest",
      }
    ]
    "Ports": [
