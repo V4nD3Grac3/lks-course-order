@@ -1,15 +1,13 @@
 {
-"AWSEBDockerrunVersion": "1",
-  "containerDefinitions": [
-     {
-       "name": "lks-order-image",
-       "image": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image:latest"
-     }
-   ],
-   "Ports": [
-      {
-         "ContainerPort": 8000,
-         "HostPort": 80
-      }
-   ]
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "834549009763.dkr.ecr.us-east-1.amazonaws.com/lks-order-image:latest",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": 8000,
+      "HostPort": 80
+    }
+  ]
 }
